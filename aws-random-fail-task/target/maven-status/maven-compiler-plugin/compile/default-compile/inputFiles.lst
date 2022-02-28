@@ -1,5 +1,8 @@
+/home/yamanin/github/aws-batch/aws-random-fail-task/src/main/java/app/kjh/SuccessThreeTask.java
 /home/yamanin/github/aws-batch/aws-random-fail-task/src/main/java/app/kjh/Const.java
+/home/yamanin/github/aws-batch/aws-random-fail-task/src/main/java/app/kjh/SuccessTwoTask.java
 /home/yamanin/github/aws-batch/aws-random-fail-task/src/main/java/app/kjh/BypassTask.java
 /home/yamanin/github/aws-batch/aws-random-fail-task/src/main/java/app/kjh/RandomFailTask.java
+/home/yamanin/github/aws-batch/aws-random-fail-task/src/main/java/app/kjh/SuccessOneTask.java
 /home/yamanin/github/aws-batch/aws-random-fail-task/src/main/java/app/kjh/utils/Params.java
 /home/yamanin/github/aws-batch/aws-random-fail-task/src/main/java/app/kjh/FailMsgTask.java

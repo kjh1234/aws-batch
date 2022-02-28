@@ -4,9 +4,18 @@
 
 # Compiled class file
 *.class
+**/target
+**/temp
 
 # Log file
 *.log
+
+# Stores VSCode versions used for testing VSCode extensions
+**/package-lock.json
+**/.vscode
+
+# Dependency directories
+**/node_modules
 
 # BlueJ files
 *.ctxt

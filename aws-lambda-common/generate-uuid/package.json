@@ -1,0 +1,14 @@
+{
+    "name": "generate-uuid-lambda",
+    "version": "1.0.0",
+    "description": "generate-uuid AWS Lambda",
+    "main": "index.js",
+    "scripts": {
+        "test": "node runner.js"
+    },
+    "author": "kjh1234",
+    "license": "MIT",
+    "dependencies": {
+        "uuid": "^8.3.2"
+    }
+}

@@ -1,5 +1,8 @@
 app/kjh/BypassTask.class
 app/kjh/FailMsgTask.class
-app/kjh/utils/Params.class
+app/kjh/SuccessOneTask.class
+app/kjh/SuccessThreeTask.class
 app/kjh/RandomFailTask.class
+app/kjh/utils/Params.class
+app/kjh/SuccessTwoTask.class
 app/kjh/Const.class
