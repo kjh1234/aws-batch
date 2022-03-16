@@ -2,10 +2,16 @@
 *.project
 *.settings
 
+# gradle
+*/.gradle
+
+
 # Compiled class file
 *.class
-**/target
-**/temp
+*/target
+*/bin
+*/temp
+*/build
 
 # Log file
 *.log
